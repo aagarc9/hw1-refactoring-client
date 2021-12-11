@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #d9dcd6;
+    background-color: #a1a39f;
 }
 
 .header {
@@ -19,8 +19,8 @@ body {
     display: inline-block;
     font-size: 48px;
 }
-
-.header h1 .seo {
+/* Removed header h1 */
+.seo {
     color: #d9dcd6;
 }
 
