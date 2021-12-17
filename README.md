@@ -1,9 +1,12 @@
 # hw1-refactoring-client
 
+## Task
+Refactoring existing code (improving it without changing what it does) to meet a certain set of standards or to implement a new technology is a common task for front-end and junior developers. For this particular homework assignment, a marketing agency has hired you to refactor an existing site to make it more accessible.
+
 ## User Story
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+* AS A marketing agency
+* I WANT a codebase that follows accessibility standards
+* SO THAT our own site is optimized for search engines
 
 ## Acceptance Criteria
 
